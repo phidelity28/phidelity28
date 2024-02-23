@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phidelity28
-- 👀 I’m interested in ... ML and AI
-- 🌱 I’m currently learning ... python, SQL, Html, css, javascript, smalltalk, chuck, tensorflow, sklearn, vue, quasar
+- 👀 I’m interested in ... ML and AI 
+- 🌱 I’m currently learning ... python, SQL, Html, css, javascript, smalltalk, chuck, tensorflow, keras, pytorch, sklearn, vue, quasar ...
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... phidelityaudio@gmail.com
 
